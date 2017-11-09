@@ -1,10 +1,10 @@
 # M4nFr4n (github.io)
 
-URL exemple [Hello World](https://m4nfr4n.github.io/helloWorld.html)
+URL exemple [https://m4nfr4n.github.io/](https://m4nfr4n.github.io/)
 
-And here's the code! :+1:
+And here's a code! :+1:
 
-```<!DOCTYPE html>
+```
 <html>
 <head>
 	<title>Github Hello world</title>
