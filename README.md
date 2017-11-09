@@ -1,8 +1,8 @@
 # M4nFr4n (github.io)
 
-Hello world exemple [m4nfr4n.github.io](https://m4nfr4n.github.io/inde.html)
+URL exemple [Hello World](https://m4nfr4n.github.io/helloWorld.html)
 
-And here's the hello world code! :+1:
+And here's the code! :+1:
 
 ```<!DOCTYPE html>
 <html>
